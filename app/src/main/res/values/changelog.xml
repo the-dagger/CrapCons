@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string-array name="fullchangelog">
+        <item>@array/newstuff</item>
+        <item>@array/improvements</item>
+        <item>@array/fixes</item>
+    </string-array>
+
+
+    <string-array name="newstuff">
+        <item>New</item>
+        <item>Few bug fixes</item>
+        <item>Added 160 more icons</item>
+        <item>Redesigned many icons from scratch.</item>
+        <item>A total of 3000+ icons now.</item>
+        <item>Added few new wallpapers</item>
+    </string-array>
+
+    <string-array name="improvements">
+        <item>Improvements</item>
+        <item>Misc. fixes to the app layout.</item>
+        <item>Icons request section loads up faster.</item>
+    </string-array>
+
+    <string-array name="fixes">
+        <item>Fixes</item>
+        <item>Fixed many wrong activity names</item>
+    </string-array>
+
+</resources>

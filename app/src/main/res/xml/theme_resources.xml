@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Theme version="4">
+    <Label value="CrapCons" />
+    <Wallpaper image="wallpaper_01" />
+    <LockScreenWallpaper image="wallpaper_02" />
+    <ThemePreview image="preview1" />
+    <ThemePreviewWork image="preview2" />
+    <ThemePreviewMenu image="preview1" />
+    <DockMenuAppIcon selector="allicons_0" />
+
+</Theme>
