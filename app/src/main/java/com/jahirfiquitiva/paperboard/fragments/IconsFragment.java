@@ -19,7 +19,7 @@ import com.balysv.materialripple.MaterialRippleLayout;
 import java.util.ArrayList;
 import java.util.Locale;
 
-import com.dagger.crapcons.R;
+import bakasenpai.iconpack.mnmlsm.R;
 
 public class IconsFragment extends Fragment {
 

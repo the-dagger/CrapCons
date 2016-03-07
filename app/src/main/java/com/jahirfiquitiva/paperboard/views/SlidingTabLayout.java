@@ -15,7 +15,7 @@ import android.widget.HorizontalScrollView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.dagger.crapcons.R;
+import bakasenpai.iconpack.mnmlsm.R;
 
 
 /**

@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.dagger.crapcons.R;
+import bakasenpai.iconpack.mnmlsm.R;
 
 public class ChangelogAdapter extends BaseAdapter {
 

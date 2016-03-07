@@ -1,4 +1,4 @@
-package crapcons.dagger.com.crapcons;
+package crapcons.dagger.mnmlsm.crapcons;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

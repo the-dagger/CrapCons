@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 import com.jahirfiquitiva.paperboard.utilities.Preferences;
 
-import com.dagger.crapcons.R;
+import bakasenpai.iconpack.mnmlsm.R;
 
 public class Settings extends AppCompatActivity implements View.OnClickListener {
 

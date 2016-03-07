@@ -24,7 +24,7 @@ import java.lang.reflect.Constructor;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.dagger.crapcons.R;
+import bakasenpai.iconpack.mnmlsm.R;
 
 public class ApplyFragment extends Fragment {
 

@@ -3,7 +3,7 @@ package com.jahirfiquitiva.paperboard.launchers;
 import android.content.Context;
 import android.content.Intent;
 
-import com.dagger.crapcons.R;
+import bakasenpai.iconpack.mnmlsm.R;
 
 public class SoloLauncher {
     public SoloLauncher(Context context) {

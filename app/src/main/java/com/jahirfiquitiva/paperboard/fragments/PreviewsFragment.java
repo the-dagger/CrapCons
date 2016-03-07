@@ -14,7 +14,7 @@ import android.view.ViewGroup;
 
 import com.jahirfiquitiva.paperboard.views.SlidingTabLayout;
 
-import com.dagger.crapcons.R;
+import bakasenpai.iconpack.mnmlsm.R;
 
 public class PreviewsFragment extends Fragment {
 

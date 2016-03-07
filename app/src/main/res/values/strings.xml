@@ -2,12 +2,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!-- MainActivity Strings -->
-    <string name="app_name">"CrapCons"</string>
-    <string name="package_name">"com.dagger.crapcons"</string>
+    <string name="app_name">"Mnmlsm"</string>
+    <string name="package_name">"bakasenpai.iconpack.mnmlsm"</string>
     <string name="theme_description">Meet CrapCons, an all new iconpack made using MS Paint.\nCrapCons with 2500+ icons will give a whole new crappy and cartoony look to your apps!</string>
 
     <!-- Muzei Stuff -->
-    <string name="artsource_name">"CrapCons"</string>
+    <string name="artsource_name">"Mnmlsm"</string>
     <string name="artsource_desc">""</string>
     <string name="muzei_settings">Muzei Settings</string>
     <string name="json_file_url">"https://raw.githubusercontent.com/the-dagger/CrapPapers/master/0wallpapers.json"</string>

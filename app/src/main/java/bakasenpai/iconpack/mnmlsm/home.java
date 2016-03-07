@@ -1,4 +1,4 @@
-package com.dagger.crapcons;
+package bakasenpai.iconpack.mnmlsm;
 
 import android.content.Intent;
 import android.os.Bundle;
